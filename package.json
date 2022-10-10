@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "simplenodewebapp",
+  "version": "1.0.0",
+  "description": "Simple node app",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "manoj",
+  "license": "ISC"
+}
