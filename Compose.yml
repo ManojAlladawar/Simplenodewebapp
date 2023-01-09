@@ -1,0 +1,12 @@
+services:
+    webapp:
+        image:ManojAlladawar/Httpd-webapp
+        ports:
+            - "8000:8080"
+        volumes:
+            - "/data"
+            
+            
+ 
+ simple compose file run
+ cmd: docker compose -f filename.yml
